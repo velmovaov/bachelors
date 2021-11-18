@@ -10,7 +10,8 @@ body {
     color: #000;
 
 }
-._container { 
+.container { 
+  width: 100%;
     max-width: 1630px;
     margin: 0px auto; 
 }
